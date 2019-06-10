@@ -14,7 +14,7 @@ import Header from "./header"
 import "./layout.css"
 
 const GlobalStyle = createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:400,700&display=swap');
+  /* @import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:400,700&display=swap'); */
   * {
     box-sizing: border-box;
   }

@@ -19,7 +19,9 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
-    "styled-components": "^4.3.1"
+    "styled-components": "^4.3.1",
+    "typeface-open-sans": "^0.0.54",
+    "typeface-playfair-display": "^0.0.72"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
