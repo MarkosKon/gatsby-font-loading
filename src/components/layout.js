@@ -12,9 +12,9 @@ import { createGlobalStyle } from "styled-components"
 
 import Header from "./header"
 import "./layout.css"
+import "./font-faces.css"
 
 const GlobalStyle = createGlobalStyle`
-  /* @import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:400,700&display=swap'); */
   * {
     box-sizing: border-box;
   }
